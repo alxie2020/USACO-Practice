@@ -6,6 +6,7 @@ Time Complexity: O(1)
 Notes: Definitely the most efficient solution. However, I
 kept on getting wrong answers.
 Solve Time: 30 minutes (whoops)
+Difficulty: 1.5
 */
 
 #include<bits/stdc++.h>

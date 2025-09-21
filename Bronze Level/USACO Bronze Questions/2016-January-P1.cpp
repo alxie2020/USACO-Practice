@@ -7,6 +7,7 @@ Time Complexity: O(1)
 Notes: Not really anything to say here. It's a simple
 question, you just need to think about it.
 Solve Time: 5 min
+Difficulty: 1
 */
 
 #include<bits/stdc++.h>

@@ -6,6 +6,7 @@ Time Complexity: O(100M+100N)
 Notes: Maybe there's a more efficient solution, but I 
 feel like this one is way more intuitive.
 Solve Time: about 25 minutes
+Difficulty: 3
 */
 
 #include<bits/stdc++.h>

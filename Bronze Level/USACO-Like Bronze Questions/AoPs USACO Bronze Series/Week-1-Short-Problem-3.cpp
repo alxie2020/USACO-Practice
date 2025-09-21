@@ -1,9 +1,9 @@
 /*
 The Cowllatz Conjecture
-Picture shown in the last file
 Time Complexity: O(count)
 Notes: Very simple problem.
 Solve Time: 5 mins
+Difficulty: 0.5
 */
 #include<bits/stdc++.h>
 using namespace std;
